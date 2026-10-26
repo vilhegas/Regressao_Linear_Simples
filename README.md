@@ -64,11 +64,11 @@ O bom resultado nesta base não comprova causalidade nem assegura desempenho com
    pip install pandas matplotlib scikit-learn openpyxl notebook
    ```
 
-3. Mantenha `Sorvete.xlsx` na mesma pasta de `Regressão_Linear_Simples.ipynb`.
+3. Mantenha `Sorvete.xlsx` na mesma pasta de `Regressao_Linear_Simples.ipynb`.
 4. Abra o notebook e execute as células sequencialmente:
 
    ```bash
-   jupyter notebook Regressão_Linear_Simples.ipynb
+   jupyter notebook Regressao_Linear_Simples.ipynb
    ```
 
 ## Estrutura do repositório
