@@ -79,12 +79,3 @@ previsao-vendas-regressao-linear/
 ├── Sorvete.xlsx                   # Base de dados utilizada
 └── README.md                      # Documentação
 ```
-
-## Limitações e próximos passos
-
-- Investigar resíduos e possíveis desvios das premissas do modelo linear.
-- Avaliar o comportamento em novos conjuntos de dados ou períodos.
-- Comparar o desempenho com um modelo de referência simples.
-- Registrar a procedência dos dados e contextualizar a unidade de vendas.
-
-Essas possibilidades são **evoluções sugeridas** e não funcionalidades já implementadas no notebook.
